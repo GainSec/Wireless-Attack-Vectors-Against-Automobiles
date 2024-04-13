@@ -10,5 +10,5 @@ GainSec's very own Intern, Elijah has spent time researching and documenting wir
 
 ## Author
 
-* **Elijah DiGregorio** - *Research and Writing* - Intern [@GainSec](https://x.com/gainsec)
+* **Elijah DiGregorio** - *Research and Writing* - Intern [@GainSec](https://x.com/gainsec) [Infireal](https://github.com/infireal/)
 * **Jon Gaines** - *Directing and PR* - Managing Security Consultant @NetSPI & Founder [@GainSec](https://x.com/gainsec)
